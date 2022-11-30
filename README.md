@@ -28,7 +28,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Algorithm:** Univariate Linear Regression, Multivariate Linear Regression
 
-**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata  
+**Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata
 
 **Projects:** ABC Project Name
 
@@ -56,8 +56,8 @@ There are two tables could be merged by ID
 | Ocean Proximity    | How Far Near Ocean   |           | Non Binary Category | ----------      |
 
 **Reference:**  
-Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>    
-Resource Reference:<a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/code?datasetId=426827&sortBy=voteCount"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
+Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>  
+Resource Reference:<a href="https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Original Dataset.csv</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Processed Dataset.csv</a>
 
